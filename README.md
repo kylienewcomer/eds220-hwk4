@@ -1,4 +1,4 @@
-# EDS 220 HW 4
+# Exploring Impacts of Large Scale Fires in Los Angeles, CA
 ### Author: Kylie Newcomer
 #### Date: 11/22/25
 
