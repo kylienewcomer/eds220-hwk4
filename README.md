@@ -18,7 +18,7 @@ To identify the impacts of indivduals affected by the fires, environmental justi
 ```
 
 ## Data
-This notebook contains datasets with the perimeters of the Palisades and Eaton fires and reflectance satellite imagery of the Los Angeles area following the fires. The perimeter data comes from the ArcGIS hub and can be downloaded [here](https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). The other dataset is a `NetDCF` comes from the Microsof Planetary Computer data catalogue and was collected by the Earth Resources Observation and Science (EROS) Center and can be downloaded from this [shared Google Drive](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=share_link).
+This notebook contains datasets with the perimeters of the Palisades and Eaton fires and reflectance satellite imagery of the Los Angeles area following the fires. The perimeter data can be downloaded from the [ArcGIS hub](https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). The other dataset is a `NetDCF` comes from the Microsof Planetary Computer data catalogue and was collected by the Earth Resources Observation and Science (EROS) Center and can be downloaded from this [shared Google Drive](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=share_link).
 
 Socioeconomic data was quatified by the Environmental Justice Index data from [Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry](https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html)
 
