@@ -5,6 +5,8 @@
 ## About
 In January 2025, the Los Angeles area experience two large scale wildfires that resulted in extreme damage. This project visualizes the aftermath and burn scars of the Palisades and Eaton fires with wavelength reflectance from satellite imagery and geospatial perimeter data. The `xarray` and `geopandas` packages were used to handle the raster and geographic data. 
 
+To identify the impacts of indivduals affected by the fires, environmental justice index data was incorporated in the analysis. This project identifies the percentage of uninsured homes within the fire perimeters. More information about the analysis can be read [here](https://kylienewcomer.github.io/posts/eds220-final-project/Visualizing%20fire%20scars%20through%20false%20color%20images.html).
+
 
 ## Repository structure
 ```
